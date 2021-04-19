@@ -7,6 +7,4 @@ This app was made as way for me to learn about the following:
 - Delegate Pattern: Learned how to manage states
 - UICollectionView: Learned how to use this compared to TableView
 
-
-https://user-images.githubusercontent.com/25238219/115173604-472e9480-a08d-11eb-93e8-608b21abe50e.mov
-
+![PokemonWeaknessDemo](https://user-images.githubusercontent.com/25238219/115174000-097e3b80-a08e-11eb-9cb7-f5ce477dd03b.gif)
