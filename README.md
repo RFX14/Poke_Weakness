@@ -1,5 +1,8 @@
 # Poke_Weakness
 A simple app that gives a user a visual representation of the types a Pokemon is very weak or very strong against
+- Green: x2 Effectivness
+- Red: x2 Weakness
+
 
 This app was made as way for me to learn about the following:
 - RESTFUL APIs: Learned what they are and how to use them.
